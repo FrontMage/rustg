@@ -1,0 +1,8 @@
+[package]
+name = "rustg"
+version = "0.1.0"
+authors = ["FrontMage <xbgxwh@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0"
